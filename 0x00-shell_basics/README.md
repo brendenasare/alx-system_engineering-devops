@@ -1,1 +1,1 @@
-absolute and path name for current working directory
+Contents of current directory

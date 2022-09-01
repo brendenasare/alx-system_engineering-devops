@@ -1,1 +1,1 @@
-Display currecnt directory in long format
+script that creates a directory
